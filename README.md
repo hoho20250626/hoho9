@@ -63,4 +63,4 @@ Telegram频道传送门：聚合热门 Telegram 频道，涵盖资讯、娱乐�
 
 《黑料大事记》按时间轴呈现娱乐与网红圈重大爆料，理清事件脉络，快速了解舆情发展全过程。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hoho20250626/hoho9）</span>
